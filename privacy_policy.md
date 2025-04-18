@@ -39,12 +39,12 @@ We do not typically collect any **Special Categories of Personal Data** about yo
 We use different methods to collect data from and about you including through:
 
 * **Direct interactions:** You may give us your Identity, Contact, and other data by filling in forms, using our services, or by corresponding with us by post, phone, email, or otherwise. This includes personal data you provide when you:
-    * Use or apply for our products or services;
-    * Create an account on our website or platform;
-    * Subscribe to our service or publications;
-    * Request marketing to be sent to you;
-    * Enter a competition, promotion or survey; or
-    * Give us feedback or contact us.
+  * Use or apply for our products or services;
+  * Create an account on our website or platform;
+  * Subscribe to our service or publications;
+  * Request marketing to be sent to you;
+  * Enter a competition, promotion or survey; or
+  * Give us feedback or contact us.
 * **Automated technologies or interactions:** As you interact with our website or services, we will automatically collect Technical Data about your equipment, Browse actions and patterns. We collect this personal data by using cookies, server logs and other similar technologies. Please see our Cookie Policy [[Link to Cookie Policy]] for further details.
 * **Third parties or publicly available sources:** We may receive personal data about you from various third parties such as analytics providers (like Google), advertising networks, search information providers, or technical/payment service providers.
 
@@ -98,4 +98,31 @@ We will only retain your personal data for as long as reasonably necessary to fu
 
 To determine the appropriate retention period for personal data, we consider the amount, nature and sensitivity of the personal data, the potential risk of harm from unauthorised use or disclosure of your personal data, the purposes for which we process your personal data and whether we can achieve those purposes through other means, and the applicable legal, regulatory, tax, accounting or other requirements.
 
-In accordance with UK GDPR, you have the right to request the deletion or removal of your personal data where there is no compelling reason for its continued processing. You can request erasure under certain circumstances (see Section 10). Upon receiving a valid request for erasure,
+In accordance with UK GDPR, you have the right to request the deletion or removal of your personal data where there is no compelling reason for its continued processing. You can request erasure under certain circumstances (see Section 10). Upon receiving a valid request for erasure, we will delete your data unless we have a legal obligation or other overriding legitimate reason to retain it.  
+
+## 10. Your Data Protection Rights
+
+Under UK data protection law, you have rights including:
+
+* Right of access: You have the right to ask us for copies of your personal data
+* Right to rectification: You have the right to ask us to rectify personal data you think is inaccurate. You also have the right to ask us to complete information you think is incomplete.  
+* Right to erasure (Right to be forgotten): You have the right to ask us to erase your personal data in certain circumstances.  
+* Right to restriction of processing: You have the right to ask us to restrict the processing of your personal data in certain circumstances.  
+* Right to object to processing: You have the right to object to the processing of your personal data in certain circumstances (e.g., for direct marketing).  
+* Right to data portability: You have the right to ask that we transfer the personal data you gave us to another organisation, or to you, in certain circumstances.  
+* Right to withdraw consent: Where we rely on consent to process your personal data, you have the right to withdraw that consent at any time.  
+To exercise any of these rights, please contact us using the details in Section
+
+## 11. You will not usually have to pay a fee. We have one month to respond to you
+
+You also have the right to lodge a complaint at any time with the Information Commissioner's Office (ICO), the UK supervisory authority for data protection issues ([www.ico.org.uk](www.ico.org.uk)
+). We would, however, appreciate the chance to deal with your concerns before you approach the ICO, so please contact us in the first instance.  
+
+## 11. Contact Us
+
+If you have any questions about this privacy policy or our privacy practices, or wish to exercise any of your rights, please contact us:
+By Email: [contact@nova-data-ai.com](mailto:contact@nova-data-ai.com)
+
+## 12. Changes to This Privacy Policy
+
+We keep our privacy policy under regular review. Any changes will be posted on this page and, where appropriate, notified to you by email. Please check back frequently to see any updates or changes. This policy was last updated on the effective date shown at the beginning.
